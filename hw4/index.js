@@ -8,11 +8,13 @@ const HOSTED_URLS = {
 
 const examples = {
   'example1':
-      'Alice was beginning to get very tired of sitting by her sister on the bank.',
+      'Happily, she bethought herself of the consequences of what she did, in time to check herself and go back.',
   'example2':
-      'Buda-Pesth seems a wonderful place.',
+      'Shrouded in a thin drooping veil of mist, it hovered for a moment in the rainbowed air; and then fell swamping back into the deep.',
   'example3':
-      'Scepticism was as much the result of knowledge, as knowledge is of scepticism.'      
+      'How he wasted and wasted away in those few long-lingering days, till there seemed but little left of him but his frame and tattooing.',
+  'example4':
+      'Chickens knows when it’s gwyne to rain, en so do de birds, chile.”'
 };
 
 function status(statusText) {
